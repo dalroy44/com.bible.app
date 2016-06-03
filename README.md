@@ -1,2 +1,2 @@
-# com.bibile.app
+# com.bible.app
 A Konkani bible app
